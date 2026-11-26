@@ -24,8 +24,4 @@ Cloud, DevOps y frontend
 IA y agentes
 
 <p> <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/> <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/RAG-555555?style=flat-square" alt="RAG"/> </p>
-🚀 Proyectos destacados
-Proyecto	Descripción
-agente-turnos	Agente con LangGraph que consume una API de turnos para clínicas
-otro-proyecto	Breve descripción del proyecto
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gonemvaz012&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonemvaz012&layout=compact&theme=transparent&hide_border=true" height="150" alt="Lenguajes más usados"/> </p>
+
